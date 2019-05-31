@@ -1,1 +1,1 @@
-FROM gradle:5.4.1-jdk8-alpine
+FROM gradle:3.5-jdk8-alpine
